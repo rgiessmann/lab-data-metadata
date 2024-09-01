@@ -1,0 +1,4 @@
+Unique_Sample_ID,Condition_Name,solution-identifier,naoh-identifier,concentration,preparation-of-reference,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Reference_Spectrum_Substrate,Reference_Spectrum_Product,Replicate
+2024-09-01-x33-4,blank,,,,,./lab-data-processed/cary300/2024-08/RTG8/2024-09-01-RTG8-x33-4.tsv,Abs,0,nan,nan,240,349,nan,,,1
+uid1,reference-uridine-x24-x33,x24,x33,100 uM uridine,6 uL x24-uridine-10mm added to 500 uL x33-naoh,./lab-data-processed/cary300/2024-08/RTG8/2024-09-01-RTG8-x24-x33-reference-10.tsv,Abs,0,2024-09-01-x33-4,1,240,349,271,,,1
+uid2,reference-uracil-x25-x33,x25,x33,100 uM uracil,7.5 uL x25-uracil-8mm added to 500 uL x33-naoh,./lab-data-processed/cary300/2024-08/RTG8/2024-09-01-RTG8-x25-x33-reference-11.tsv,Abs,0,2024-09-01-x33-4,1,240,349,271,,,1
