@@ -1,60 +1,61 @@
 Unique_Sample_ID,Condition_Name,content,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Replicate,Reference_Spectrum_dummy1,Reference_Spectrum_dummy2
 blank,blank,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-empty-cuvette-2.tsv,Abs,,,,240,349,,1,,
-1,retro,air,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-air.tsv,Abs,1,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-2,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-11.tsv,Abs,2,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-3,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-5.tsv,Abs,3,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-4,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-7.tsv,Abs,4,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-5,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-9.tsv,Abs,5,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-7,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-11.tsv,Abs,6,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-8,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-13.tsv,Abs,7,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-9,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-15.tsv,Abs,8,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-10,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-17.tsv,Abs,9,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-11,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-19.tsv,Abs,10,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-12,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-1.tsv,Abs,11,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-13,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-3.tsv,Abs,12,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-14,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank400ul-9.tsv,Abs,13,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-15,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-7.tsv,Abs,14,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-16,retro,water?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blankwater-5.tsv,Abs,15,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-17,retro,air?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-air-21.tsv,Abs,16,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-18,retro,?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-blank-22.tsv,Abs,17,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-19,retro,?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-blank-25.tsv,Abs,18,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-20,retro,air,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-air-1.tsv,Abs,19,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-21,retro,x5 naoh,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-cuvette-blank-x5-naoh-3.tsv,Abs,20,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-22,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-cuvette-water-2.tsv,Abs,21,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-23,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-14.tsv,Abs,22,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-24,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-16.tsv,Abs,23,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-25,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-21.tsv,Abs,24,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-26,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-water-blank-5.tsv,Abs,25,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-27,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-11.tsv,Abs,26,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-28,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-12.tsv,Abs,27,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-29,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-3.tsv,Abs,28,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-30,retro,water,./lab-data-processed/cary300/2024-09/RTG10/2024-09-01-RTG10-blank-water-10.tsv,Abs,29,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-31,retro,water,./lab-data-processed/cary300/2024-09/RTG10/2024-09-01-RTG10-blank-water-2.tsv,Abs,30,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-32,retro,water?,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-1.tsv,Abs,31,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-33,retro,water,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-water-16.tsv,Abs,32,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-34,retro,water,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-water-26.tsv,Abs,33,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-35,retro,air,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-air-1.tsv,Abs,34,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-36,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-10.tsv,Abs,35,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-37,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-23.tsv,Abs,36,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-38,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-2.tsv,Abs,37,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-39,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-43.tsv,Abs,38,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-40,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-44.tsv,Abs,39,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-41,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-4.tsv,Abs,40,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-42,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-50.tsv,Abs,41,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-43,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-6.tsv,Abs,42,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-44,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-8.tsv,Abs,43,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-45,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-3.tsv,Abs,44,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-46,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-from-tube-9.tsv,Abs,45,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-47,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-stored-5.tsv,Abs,46,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-48,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-stored-7.tsv,Abs,47,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-49,retro,air,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-air-1.tsv,Abs,48,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-50,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-12.tsv,Abs,49,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-51,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-2.tsv,Abs,50,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-52,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-5.tsv,Abs,51,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-53,retro,,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x35-new-7.tsv,Abs,52,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-54,retro,,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x35-old-6.tsv,Abs,53,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-55,retro,x5 naoh,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x5-3.tsv,Abs,54,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-56,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-1.tsv,Abs,55,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-57,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-20.tsv,Abs,56,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-58,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-31.tsv,Abs,57,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
-59,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-9.tsv,Abs,58,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+1,air,air,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-air.tsv,Abs,1,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+2,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-5.tsv,Abs,2,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+3,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-7.tsv,Abs,3,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+4,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-9.tsv,Abs,4,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+5,retro,x5 naoh,./lab-data-processed/cary300/2024-05/2024-05-14-RTG4-blank-11.tsv,Abs,5,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+,,,,,,,,,,,,,
+6,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-1.tsv,Abs,6,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+7,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-3.tsv,Abs,7,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+8,retro,water?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blankwater-5.tsv,Abs,8,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+9,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-7.tsv,Abs,9,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+10,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank400ul-9.tsv,Abs,10,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+11,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-11.tsv,Abs,11,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+12,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-13.tsv,Abs,12,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+13,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-15.tsv,Abs,13,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+14,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-17.tsv,Abs,14,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+15,retro,?,./lab-data-processed/cary300/2024-05/2024-05-14-RTG5-blank-19.tsv,Abs,15,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+,,,,,,,,,,,,,
+16,air,air?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-air-21.tsv,Abs,16,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+17,retro,?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-blank-22.tsv,Abs,17,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+18,retro,?,./lab-data-processed/cary300/2024-05/2024-05-15-RTG5-blank-25.tsv,Abs,18,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+,,,,,,,,,,,,,
+19,air,air,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-air-1.tsv,Abs,19,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+blank20,blank,x5 naoh,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-cuvette-blank-x5-naoh-3.tsv,Abs,20,blank,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+21,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-cuvette-water-2.tsv,Abs,21,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+22,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-14.tsv,Abs,22,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+23,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-16.tsv,Abs,23,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+24,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-blank-water-21.tsv,Abs,24,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+25,retro,water,./lab-data-processed/cary300/2024-08/RTG6/2024-08-27-RTG6-water-blank-5.tsv,Abs,25,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+26,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-11.tsv,Abs,26,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+27,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-12.tsv,Abs,27,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+28,retro,water,./lab-data-processed/cary300/2024-08/RTG7/2024-08-27-RTG7-blank-water-3.tsv,Abs,28,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+29,retro,water,./lab-data-processed/cary300/2024-09/RTG10/2024-09-01-RTG10-blank-water-10.tsv,Abs,29,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+30,retro,water,./lab-data-processed/cary300/2024-09/RTG10/2024-09-01-RTG10-blank-water-2.tsv,Abs,30,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+31,retro,water?,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-1.tsv,Abs,31,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+32,retro,water,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-water-16.tsv,Abs,32,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+33,retro,water,./lab-data-processed/cary300/2024-09/RTG11/2024-09-01-RTG11-blank-water-26.tsv,Abs,33,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+34,air,air,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-air-1.tsv,Abs,34,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+35,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-10.tsv,Abs,35,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+36,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-23.tsv,Abs,36,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+37,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-2.tsv,Abs,37,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+38,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-43.tsv,Abs,38,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+39,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-44.tsv,Abs,39,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+40,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-4.tsv,Abs,40,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+41,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-50.tsv,Abs,41,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+42,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-6.tsv,Abs,42,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+43,retro,water,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-water-8.tsv,Abs,43,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+44,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-3.tsv,Abs,44,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+45,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-from-tube-9.tsv,Abs,45,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+46,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-stored-5.tsv,Abs,46,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+47,retro,x33 naoh,./lab-data-processed/cary300/2024-09/RTG12/2024-09-05-RTG12-blank-x33-stored-7.tsv,Abs,47,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+48,air,air,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-air-1.tsv,Abs,48,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+49,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-12.tsv,Abs,49,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+50,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-2.tsv,Abs,50,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+51,retro,water,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-5.tsv,Abs,51,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+52,retro,x5 naoh,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x5-3.tsv,Abs,52,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+53,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-1.tsv,Abs,53,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+54,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-20.tsv,Abs,54,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+55,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-31.tsv,Abs,55,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
+56,retro,water,./lab-data-processed/cary300/2024-09/RTG9/2024-09-01-blank-water-9.tsv,Abs,56,blank20,1,240,349,0,1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv
