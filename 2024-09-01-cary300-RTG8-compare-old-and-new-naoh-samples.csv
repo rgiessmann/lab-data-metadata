@@ -1,0 +1,8 @@
+Unique_Sample_ID,Condition_Name,Whats-in-it,preparation,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Reference_Spectrum_Substrate,Reference_Spectrum_Product,Replicate
+blank,blank,air,,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-air-1.tsv,Abs,,,,240,349,,,,1
+1,all,Water 2,water in cuvette,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-2.tsv,Abs,2,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+2,all,x5 fresh,"put x5 from bottle into cuvette, measure",./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x5-3.tsv,Abs,3,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+3,all,x33 fresh,"put x33 from bottle into cuvette, measure",./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x33-4.tsv,Abs,4,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+4,all,Water 5,water in cuvette,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-blank-water-5.tsv,Abs,5,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+5,not,sample in x5,Add 60 uL x35 to 500 uL x5 naoh,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x35-old-6.tsv,Abs,6,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+6,not,sample in x33,Add 60 uL x35 to 500 uL x33 naoh,./lab-data-processed/cary300/2024-09/RTG8/2024-09-01-RTG8-x35-new-7.tsv,Abs,7,blank,1,240,349,0,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
