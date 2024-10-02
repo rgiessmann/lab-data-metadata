@@ -1,12 +1,12 @@
 Unique_Sample_ID,Condition_Name,measured on date,prepared from stock,t#,pH,buffer,nucleoside,concentrations,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Reference_Spectrum_Substrate,Reference_Spectrum_Product,Replicate
-blank16,blank,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-16.tsv,Abs,,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank24,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-24.tsv,Abs,-1,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank31,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-31.tsv,Abs,-2,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank38,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-38.tsv,Abs,-3,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank45,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-45.tsv,Abs,-4,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank52,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-52.tsv,Abs,-5,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank60,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-60.tsv,Abs,-6,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
-blank70,bl ank sample,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-70.tsv,Abs,-7,,1,250,349,-1,./lab-data-reference-spectra/dummy.csv,./lab-data-reference-spectra/dummy.csv,1
+blank16,blank 16,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-16.tsv,Abs,,,,,,,,,1
+blank24,blank 24,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-24.tsv,Abs,,,,,,,,,1
+blank31,blank 31,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-31.tsv,Abs,,,,,,,,,1
+blank38,blank 38,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-38.tsv,Abs,,,,,,,,,1
+blank45,blank 45,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-45.tsv,Abs,,,,,,,,,1
+blank52,blank 52,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-52.tsv,Abs,,,,,,,,,1
+blank60,blank 60,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-60.tsv,Abs,,,,,,,,,1
+blank70,blank 70,,,,,,,,lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-70.tsv,Abs,,,,,,,,,1
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 uid1,"x50, pH 7.39",2024-10-01,x30,t1,7.39,"universal mix, pH measured 7.39",uridine,2 mM nucleoside; 10 mM phosphate,./lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-x50-t1-17.tsv,Abs,2,blank16,1,250,349,-1,./lab-data-reference-spectra/2024-09-01-RTG8-reference-uridine-x24-x33.csv,./lab-data-reference-spectra/2024-09-01-RTG8-reference-uracil-x25-x33.csv,1
