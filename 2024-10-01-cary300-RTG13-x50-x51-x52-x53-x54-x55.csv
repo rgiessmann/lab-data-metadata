@@ -1,4 +1,4 @@
-Unique_Sample_ID,Condition_Name,measured on date,prepared from stock,Nucleoside-phosphate ratio derived from stock ,t#,pH,buffer,nucleoside,concentrations,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Reference_Spectrum_Substrate,Reference_Spectrum_Product,Replicate
+Unique_Sample_ID,Condition_Name,reaction started on date,reaction prepared from stock,nucleoside-phosphate ratio derived from stock ,t#,pH,buffer,nucleoside,concentrations,Data_File,Well_Number,Time_Point,Blank_Unique_Sample_ID,Total_Concentration,Wavelength_Start,Wavelength_End,Isosbestic_Point,Reference_Spectrum_Substrate,Reference_Spectrum_Product,Replicate
 blank101,blank 101,,,,,,,,,./lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-new-cuvette-101.tsv,Abs,,,,,,,,,1
 blank105,blank 105,,,,,,,,,./lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-105.tsv,Abs,,,,,,,,,1
 blank113,blank 113,,,,,,,,,./lab-data-processed/cary300/2024-10/RTG13/2024-10-01-RTG13-water-113.tsv,Abs,,,,,,,,,1
